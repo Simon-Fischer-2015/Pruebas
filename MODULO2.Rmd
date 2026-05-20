@@ -2,23 +2,8 @@
 # TITULO: Contribution Title
 # AUTORES: Ruben Cruz, Simon Fischer, Yesica Villaca, Chiara Palmero, Matias Rosa
 # INSTITUTO: Universidad Nacional de Cuyo, Instituto de Ingeniería Industrial
-# ==============================================================================
+# ===============================================================================
 
-# ------------------------------------------------------------------------------
-# TEOREMAS Y NOTAS DEL DOCUMENTO
-# ------------------------------------------------------------------------------
-# This is a sample theorem. The run-in heading is set in bold, while the
-# following text appears in italics. Definitions, lemmas, propositions, and
-# corollaries are styled the same way.
-#
-# The environments 'definition', 'lemma', 'proposition', 'corollary', 'remark',
-# and 'example' are defined in the LLNCS documentclass as well.
-#
-# Proofs, examples, and remarks have the initial word in italics, while the
-# following text appears in normal font.
-#
-# For citations of references, use [@Nuncio2011]
-# Multiple citations are grouped [@Levitus2012; @Raphael2004].
 
 # ==============================================================================
 # GUÍA DE USO DE RSTUDIO Y POSIT CLOUD
